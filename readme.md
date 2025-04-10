@@ -1,6 +1,6 @@
-# test menu website
+# Struggle meals website
 
-<h1> Here I will explain the process and steps i took to build this website<h1>
+<h1> Here I will explain the process and steps i took to build this website</h1>
 
 
 - Started with basic html, added photos and links.<br>
@@ -11,4 +11,3 @@
     - moved index and styles into src folder<br>
 - Images wouldnt show
     - moved docs into src folder
-    
